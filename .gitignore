@@ -1,0 +1,6 @@
+*.DS_Store
+*.ipynb_checkpoints
+presentation_resources/
+GIS_resources/
+dash/
+data_raw_crime/
