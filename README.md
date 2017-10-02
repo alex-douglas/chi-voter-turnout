@@ -39,4 +39,3 @@ Now that we have strong empirical evidence for the powerful connection between p
 For example, to help low-income voters cast their ballots we could focus on increasing awareness and access to early voting mechanisms like in-person early voting or Chicago’s Vote by Mail option. To address language-barriers the city could produce election material in different languages, and possibly consider staffing polling stations with bilingual staffers come election day. 
 
 If anyone is interested in exploring my data set further, I put together a little dashboard available [here](https://github.com/alex-douglas/chi-voter-dashboard) which allows one to compare the relationship between different features in my feature-set, as well as get a better feel for the data more generally.
-# chi-voter-turnout
